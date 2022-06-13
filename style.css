@@ -68,11 +68,11 @@ h1{
 }
 
 
-.clear, .sign, .percent {
+.clear, .sign, .percent, #backspace {
  background-color: dodgerblue;
 }
 
-.clear:hover, .sign:hover, .percent:hover {
+.clear:hover, .sign:hover, .percent:hover, #backspace {
  background-color: rgb(123, 189, 255);
 }
 
